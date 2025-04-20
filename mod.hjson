@@ -1,8 +1,8 @@
 name: "periodic"
-displayName: "Placeholder"
+displayName: "Periodic"
 author: Sharkjr17
-description: "Bbfashbjhcbabfhsbafbhajbf"
+description: "WIP"
 version: "1.0"
-minGameVersion: "147"
+minGameVersion: "146"
 dependencies: [ ]
 hidden: false
