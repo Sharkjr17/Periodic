@@ -1,8 +1,8 @@
 name: "periodic"
 displayName: "Placeholder"
-author: Yourself
+author: Sharkjr17
 description: "Bbfashbjhcbabfhsbafbhajbf"
 version: "1.0"
-minGameVersion: "147.1"
+minGameVersion: "147"
 dependencies: [ ]
 hidden: false
