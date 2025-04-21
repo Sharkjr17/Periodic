@@ -12,3 +12,4 @@ mainly for personal use. just stuff i have to reference to know how to function 
 [ExoGenesis](https://github.com/AureusStratus/ExoGenesis)  
 [Mindustry Wiki Modding Guide](https://mindustrygame.github.io/wiki/modding/1-modding/#directory-structure)  
 [Mindustry Github](https://github.com/Anuken/Mindustry)  
+[Spriting Tutorials](https://www.aseprite.org/docs/tutorial/)  
