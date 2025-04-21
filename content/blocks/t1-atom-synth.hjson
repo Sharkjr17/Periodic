@@ -1,0 +1,6 @@
+type: GenericCrafter
+name: Atomic Splitter
+description: Takes Tier 1 resources and breaks them apart, outputting small amounts of protons, neutrons, and electrons.
+size: 2
+craftEffect: smeltsmoke
+
