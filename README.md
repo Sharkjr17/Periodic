@@ -17,3 +17,4 @@ mainly for personal use. just stuff i have to reference to know how to function 
 [Mindustry Github](https://github.com/Anuken/Mindustry)  
 [Spriting Tutorials](https://www.aseprite.org/docs/tutorial/)  
 [Periodic Table](https://ptable.com/?lang=en#Isotopes/Count)  
+[Fading Revelations](https://github.com/catana791/fading-revelations)
