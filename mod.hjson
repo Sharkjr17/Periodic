@@ -2,7 +2,7 @@ name: "periodic"
 displayName: "Periodic"
 author: Sharkjr17
 description: "WIP"
-version: "1.0"
+version: "Alpha-1"
 minGameVersion: "146"
 dependencies: [ ]
 hidden: false
